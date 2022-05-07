@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget android-versionCode="40000" id="com.moodle.moodlemobile" ios-CFBundleVersion="4.0.0.0" version="4.0.0-dev" versionCode="40000" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>BoA LMS Mobile App</name>
-    <description>BoA LMS Mobile App official app</description>
-    <author email="elearning@bankofabyssinia.com" href="https://bankofabyssinia.com">BoA eLearning Team</author>
+    <name>Moodle</name>
+    <description>Moodle official app</description>
+    <author email="mobile@moodle.com" href="http://moodle.com">Moodle Mobile team</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
