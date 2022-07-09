@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "BoA LMS",
   "version": "4.0.0",
-  "description": "The official app for Moodle.",
+  "description": "BoA elearning official app",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "BoA",
+    "email": "elearning@bankofabyssinia.com"
   },
   "repository": {
     "type": "git",
@@ -194,7 +194,7 @@
       },
       "cordova-plugin-chooser": {},
       "cordova-plugin-customurlscheme": {
-        "URL_SCHEME": "moodlemobile",
+        "URL_SCHEME": "BoA LMS",
         "ANDROID_SCHEME": " ",
         "ANDROID_HOST": " ",
         "ANDROID_PATHPREFIX": "/"

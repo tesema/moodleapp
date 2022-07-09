@@ -1,13 +1,13 @@
 Moodle App
 =================
 
-This is the primary repository of source code for the official mobile app for Moodle.
+This is the primary repository of official mobile app for LMS.
 
-* [User documentation](https://docs.moodle.org/en/Moodle_app)
-* [Developer documentation](http://docs.moodle.org/dev/Moodle_App)
-* [Development environment setup](https://docs.moodle.org/dev/Setting_up_your_development_environment_for_the_Moodle_App)
-* [Bug Tracker](https://tracker.moodle.org/browse/MOBILE)
-* [Release Notes](https://docs.moodle.org/dev/Moodle_App_Release_Notes)
+* [User documentation](https://elearning.bankofabyssinia.com/Moodle_app)
+* [Developer documentation](http://elearning.bankofabyssinia.com/Moodle_App)
+* [Development environment setup](elearning.bankofabyssinia.com/Setting_up_your_development_environment_for_the_Moodle_App)
+* [Bug Tracker](/elearning.bankofabyssinia.combrowse/MOBILE)
+* [Release Notes](https://elearning.bankofabyssinia.com/Moodle_App_Release_Notes)
 
 License
 -------
